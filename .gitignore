@@ -1,0 +1,16 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environments
+venv/
+env/
+.venv/
+
+# Archives & OS
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
